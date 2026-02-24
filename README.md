@@ -22,6 +22,14 @@ A web-based investment platform designed to explore and analyze investment data.
 
 ---
 
+## 🧪 Academic Projects
+
+- **CS50P Final Project – Expenses Control**
+  CLI application focused on expense tracking, price variation analysis,
+  and automated testing with pytest.
+
+---
+
 ## 📚 Education & Learning
 
 - ADS – UniAmérica (Descomplica)
