@@ -1,6 +1,6 @@
 Hi! I'm Lincoln 👋
 
-I'm transitioning my career from Foreign Trade to Software Development, currently studying Analysis and Systems Development (ADS) at :contentReference[oaicite:0]{index=0} (Descomplica).
+I'm transitioning my career from Foreign Trade to Software Development, currently studying Analysis and Systems Development (ADS) at Centro Universitário União das Américas (Descomplica).
 
 I'm focused on programming fundamentals, clean code, and building real-world projects step by step.
 
