@@ -29,7 +29,7 @@ CLI application focused on expense tracking, price variation analysis, and autom
 
 ## 📚 Education & Learning
 
-- ADS – UniAmérica (Descomplica)
+- ADS – UniAmérica - Descomplica (ongoing)
 - CS50P – Harvard (completed)
 - CS50X – Harvard (ongoing)
 
