@@ -12,11 +12,12 @@ I'm focused on programming fundamentals, clean code, and building real-world pro
 A personal project focused on building a web-based investment platform while applying real-world development workflows, from ideation and UX/UI design to backend implementation.
 
 **Current stage**
-- Product ideation and problem definition  
-- User flow mapping and UX/UI exploration  
-- High-level system architecture planning  
+Product ideation and problem definition completed
+User flow mapping and low-fidelity prototyping
+Project roadmap and architecture definition
+Early technical exploration and backend learning phase 
 
-👉 Repository: in progress (design & planning phase)
+👉 Repository: active development (documentation & architecture phase)
 
 ---
 
