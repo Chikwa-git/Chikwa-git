@@ -1,55 +1,89 @@
-Hi! I'm Lincoln 👋
+# Hi, I'm Lincoln 👋
 
-I'm transitioning my career from Foreign Trade to Software Development, currently studying Analysis and Systems Development (ADS) at Centro Universitário União das Américas (Descomplica).
+I'm transitioning my career from Foreign Trade to Software Development and currently studying **Analysis and Systems Development (ADS)** in Brazil.
 
-I'm focused on programming fundamentals, clean code, and building real-world projects step by step.
-
----
-
-🚀 Main Project
-
-### Investment Platform (Personal Project)
-A personal project focused on building a web-based investment platform while applying real-world development workflows, from ideation and UX/UI design to backend implementation.
-
-**Current stage**
-Product ideation and problem definition completed
-User flow mapping and low-fidelity prototyping
-Project roadmap and architecture definition
-Early technical exploration and backend learning phase 
-
-👉 Repository: active development (documentation & architecture phase)
+My current focus is on building a strong foundation in **backend development**, **programming fundamentals**, and **real-world problem solving** step by step.
 
 ---
 
-## 🧪 Academic Projects
+## About Me
 
-**CS50P Final Project – Expenses Control**  
-CLI application focused on expense tracking, price variation analysis, and automated testing with `pytest`.
-
----
-
-## 📚 Education & Learning
-
-- ADS – UniAmérica - Descomplica (ongoing)
-- CS50P – Harvard (completed)
-- CS50X – Harvard (ongoing)
-
-**Core topics**
-- Programming fundamentals  
-- Data structures and algorithms  
-- Web development basics  
+- Career transition into Software Development
+- ADS student
+- CS50P ✔
+- CS50X ✔
+- CS50W (ongoing)
+- Focused on backend, logic, APIs, and structured learning
 
 ---
 
-## 🎯 Current Focus
+## Featured Project
 
-- Structuring my main project MVP  
-- Strengthening backend fundamentals with Python  
-- Applying CS50 concepts to practical projects  
+### Radar Político
+A web application built as my **CS50X final project** to analyze public data from Brazilian federal deputies.
+
+#### Main features
+- Search for a specific deputy
+- Show recent voting activity
+- Display voting attendance percentage
+- Show alignment percentage with the Chamber
+- Identify top 5 most similar voting profiles
+- Identify top 5 most different voting profiles
+- Display the latest proposed bills
+
+#### Technical highlights
+- Integration with the official **Câmara dos Deputados Open Data API**
+- Backend data processing and analysis with Python
+- SQLite caching with 24-hour TTL to reduce repeated API calls
+- Focus on handling real-world API limitations and performance issues
 
 ---
 
-## 📫 Contact
+## Other Project
 
-- Email: lincoln.okoti@gmail.com  
-- Location: São Paulo, Brazil
+### Expenses Control
+CLI application developed as my **CS50P final project**.
+
+- Expense tracking
+- Price variation analysis
+- Monthly summaries
+- Automated tests with `pytest`
+
+---
+
+## Current Focus
+
+- Strengthening backend fundamentals with Python
+- Advancing in web development through CS50W
+- Preparing for internship opportunities
+- Building projects that reinforce real software development skills
+
+---
+
+## Tech Stack
+
+- **Languages:** Python, JavaScript, C
+- **Backend:** Flask, REST APIs
+- **Frontend:** HTML, CSS
+- **Tools:** Git, GitHub, Linux, SQLite
+
+---
+
+## Education
+
+- **ADS** – Descomplica *(ongoing)*
+- **CS50P** – Harvard *(completed)*
+- **CS50X** – Harvard *(completed)*
+- **CS50W** – Harvard *(ongoing)*
+
+---
+
+## Contact
+
+- **Email:** lincoln.okoti@gmail.com
+- **Location:** São Paulo, Brazil
+- **LinkedIn:** [linkedin.com/in/lincoln-neves100](https://www.linkedin.com/in/lincoln-neves100)
+
+---
+
+> Building the foundation first. One step at a time.
