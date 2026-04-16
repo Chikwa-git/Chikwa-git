@@ -12,7 +12,8 @@ My current focus is on building a strong foundation in **backend development**, 
 - ADS student
 - CS50P ✔
 - CS50X ✔
-- CS50W (ongoing)
+- CS50W ✔
+- CS50AI (ongoing)
 - Focused on backend, logic, APIs, and structured learning
 
 ---
@@ -63,7 +64,7 @@ CLI application developed as my **CS50P final project**.
 ## Tech Stack
 
 - **Languages:** Python, JavaScript, C
-- **Backend:** Flask, REST APIs
+- **Backend:** Flask, Django, REST APIs
 - **Frontend:** HTML, CSS
 - **Tools:** Git, GitHub, Linux, SQLite
 
@@ -74,7 +75,8 @@ CLI application developed as my **CS50P final project**.
 - **ADS** – Descomplica *(ongoing)*
 - **CS50P** – Harvard *(completed)*
 - **CS50X** – Harvard *(completed)*
-- **CS50W** – Harvard *(ongoing)*
+- **CS50W** – Harvard *(Completed)*
+- **CS50AI** – Harvard *(ongoing)*
 
 ---
 
@@ -87,3 +89,4 @@ CLI application developed as my **CS50P final project**.
 ---
 
 > Building the foundation first. One step at a time.
+✔
