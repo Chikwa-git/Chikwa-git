@@ -10,7 +10,7 @@ My current focus is on building a strong foundation in **backend development**, 
 - CS50P ✔
 - CS50X ✔
 - CS50W ✔
-- CS50AI (ongoing)
+- CS50AI ✔
 - Focused on backend, logic, APIs, and structured learning
 
 ---
