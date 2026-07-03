@@ -84,7 +84,7 @@ CLI application developed as my **CS50P final project**.
 - **CS50P** – Harvard *(completed)*
 - **CS50X** – Harvard *(completed)*
 - **CS50W** – Harvard *(completed)*
-- **CS50AI** – Harvard *(ongoing)*
+- **CS50AI** – Harvard *(Completed)*
 
 ---
 
