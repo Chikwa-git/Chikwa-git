@@ -75,7 +75,7 @@ CLI application developed as my **CS50P final project**.
 - Advancing through Andrew Ng's Machine Learning Specialization
 - Competing on Kaggle (feature engineering, XGBoost, CatBoost, SHAP)
 - Building portfolio projects with real-world APIs and AI integration
-- Preparing for internship opportunities in backend/data/AI roles
+- Actively applying for internship opportunities in backend/data/AI roles
 
 ---
 
